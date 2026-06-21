@@ -1,0 +1,10 @@
+insensitive=true
+hide_scroll=true
+allow_focus_out=true
+prompt=
+normal_window=true
+no_actions=true
+
+key_down=Alt-j
+key_up=Alt-k
+print_line_num=true

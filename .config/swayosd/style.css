@@ -1,0 +1,23 @@
+@import url("file:///home/jon/.cache/wal/colors-waybar.css");
+window {
+    /* Fondo del popup (le damos un 85% de opacidad) */
+    background-color: alpha(@background, 0.85); 
+}
+
+image {
+    /* Color de los iconos (volumen, brillo, etc.) */
+    color: @color6;
+}
+label {
+    color: @color6;
+}
+
+progressbar trough progress {
+    /* Color de la barra de progreso activa */
+    background-color: @color6;
+}
+
+progressbar trough {
+    /* Color del fondo de la barra (el camino gris por defecto) */
+    background-color: alpha(@color6, 0.15);
+}
