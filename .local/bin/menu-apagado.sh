@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 # Agregamos un icono a Hibernar para mantener consistencia y evitar fallos de coincidencia
 opciones="󰐥  Apagar Equipo\n󰤄  Hibernar\n󰑙  Reiniciar\n  Bloquear"
 
